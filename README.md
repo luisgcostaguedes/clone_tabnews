@@ -1,6 +1,6 @@
 # clone_tabnews
 
-## Tudo o que será feito durante o curso do curso.dev, será atualizado aqui, inclusive com algumas opções que irei adotar por conta própria
+### Tudo o que será feito durante o curso do curso.dev, será atualizado aqui, inclusive com algumas opções que irei adotar por conta própria, lembrando que este arquivo sofrerá diversas mudanças em decorrer das atualizações
 
 ### Primeiros passos
 
@@ -19,3 +19,17 @@ Sempre optar para uma versão LTS
 ```
 nvm ls-remote
 ```
+
+### Padronizar a versão usada
+
+Criamos o arquivo ".nvmrc" que tem como função instalar no ambiente de desenvolvimento a versão do node que será usada como padrão, evitando assim que haja divergências.
+
+### Após a criação do .nvmrc
+
+Executaremos o comando:
+
+```
+nvm install
+```
+
+Assim o mesmo vai ver a versão que vai estar definida no arquivo e a instalará

@@ -1,0 +1,16 @@
+{
+  "name": "clone_tabnews",
+  "version": "1.0.0",
+  "description": "### Tudo o que será feito durante o curso do curso.dev, será atualizado aqui, inclusive com algumas opções que irei adotar por conta própria, lembrando que este arquivo sofrerá diversas mudanças em decorrer das atualizações",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev"
+  },
+  "author": "Luis Guilherme C G",
+  "license": "MIT",
+  "dependencies": {
+    "next": "^14.0.4",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
